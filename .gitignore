@@ -1,0 +1,26 @@
+# 忽略 model 文件夹中的所有内容
+model/
+
+# 忽略 config.yaml 文件
+config.yaml
+
+# Python 常见忽略项
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.sqlite3
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+.env/
+
+# 忽略IDE和编辑器配置文件
+.vscode/
+.idea/

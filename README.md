@@ -44,7 +44,9 @@ openai:
 ```
 
 ### 4. 下载模型
-将必要的开源模型文件放入 model/ 文件夹中（该文件夹已被 .gitignore 忽略，上传代码时不会上传模型文件）。
+将必要的开源模型文件（flux提示词增强模型）放入 model/ 文件夹中（该文件夹已被 .gitignore 忽略，上传代码时不会上传模型文件）。
+
+模型地址：https://huggingface.co/gokaygokay/Flux-Prompt-Enhance
 
 
 ### 5. 启动 Flask API（终端1）

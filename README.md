@@ -59,3 +59,6 @@ python api.py
 streamlit run streamlitapp.py
 ```
 
+### 7. 访问 Streamlit 应用
+在浏览器中访问 http://localhost:8501 即可使用 Streamlit 应用。
+
